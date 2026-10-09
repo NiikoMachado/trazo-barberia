@@ -19,8 +19,4 @@ Licencia: https://unsplash.com/license. Permite descargar y usar las imágenes g
 
 Licencias SIL Open Font License 1.1 completas en `assets/fonts/LICENSE-Anton.txt` y `assets/fonts/LICENSE-Manrope.txt`. Los archivos originales TTF se convirtieron a WOFF sin modificar el diseño de los caracteres. Conservá las licencias al distribuirlos.
 
-## Código y marca de demostración
 
-Diseño y código preparados con ChatGPT para el proyecto Negocio IA de Nicolás. TRAZO es un nombre de demostración; no se afirma exclusividad o disponibilidad registral. Podés personalizar este proyecto y reutilizar su código. Las licencias de fotografías y tipografías se mantienen por separado.
-
-La web no usa frameworks, herramientas de análisis, cookies propias, APIs pagas, pagos online ni formularios que transmitan datos. Sus enlaces externos se activan solo al pulsarlos.
